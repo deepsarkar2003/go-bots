@@ -1,5 +1,10 @@
 # go-bots
 
+
+
+in this i'll be making a very basic hello world bot where if you type Hello the output message will be world
+this is a part of series in which i'll be making bot using go
+
 Step : 1 - Setup discord developer account in discort develop portal "https://discord.com/developers/docs/intro"
 Step : 2 - Tap on application "https://discord.com/developers/applications"
 Step : 3 - New Application
